@@ -1,2 +1,11 @@
-
+.holder{
+	display:flex;
+	flex-flow:row;
+	align-items:flex-start;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.holder div{
+	background-color:red;
+}
 /* Your CSS Code here. */
